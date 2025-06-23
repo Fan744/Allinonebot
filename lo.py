@@ -70,9 +70,10 @@ def pull_run(work, cmds):
 	        print(result) 
 bot = Client(
   "CW",
-  bot_token="5717007875:AAFuDj6aaKcIT31AZmUQRg2414CcZrjdP-g",
-  api_id=1654363,
-  api_hash="26b911420edb5ceb8f370f21f5eb2684"
+  bot_token="7593412557:AAGh4AgF3YcelBK6vRtzH70ONerIaGzWt3s",
+  api_id=20924859,
+  api_hash=""918bf88147ce14b28f713973fd239443"
+  "
 )
 
 @bot.on_message(filters.command(["down"]) & ~filters.edited)
